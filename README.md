@@ -12,3 +12,6 @@ Python assignment covering control structures using if-else statements and loops
 - for loop
 - User input
 - Basic Python syntax
+
+## Purpose
+The purpose of this assignment is to understand and apply Python control structures such as if-else statements and loops to solve basic logical and mathematical problems.
